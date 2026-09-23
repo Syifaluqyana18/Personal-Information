@@ -1,4 +1,4 @@
-# Syifa Luqyana Febri
+# Syifa Luqyana Febri 007
 
 ## About Me
 I have a background in Product Design and experience in graphic design.
@@ -29,6 +29,12 @@ Graduated in 2024
 - Graphic Design
 - Packaging Design
 - Visual Communication
+
+**Computer Skills**
+- Google Antigravity
+- Github
+- Git
+- Phyton
 
 ## Tools
 - Adobe Photoshop
