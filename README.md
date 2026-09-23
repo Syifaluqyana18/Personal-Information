@@ -1,4 +1,4 @@
-# Syifa Luqyana Febri 007
+# Syifa Luqyana Febri
 
 ## About Me
 I have a background in Product Design and experience in graphic design.
